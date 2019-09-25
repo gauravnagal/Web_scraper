@@ -17,7 +17,6 @@ from requests import get
 import re
 import pandas as pd
 import time
-import numpy as np
 
 
 # In[107]:
